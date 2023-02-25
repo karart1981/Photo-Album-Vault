@@ -19,7 +19,7 @@ const Nav = () =>{
 			  Instruction 
 			</a>
 		</div>
-		<div className="navbarItem">
+		<div className="navbarItem">git 
 			<a href="#"> 
 			   Contact 
 			</a>
